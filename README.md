@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Camilo 👋
 
-<!--
-**Camilo1138/Camilo1138** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software developer interested in automation, web development and Android apps.
 
-Here are some ideas to get you started:
+## Skills
+- Python
+- Java
+- JavaScript
+- HTML / CSS
+- Android Development
+- Data structures
+- Cryptography (RSA)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- Android messaging app with RSA encryption
+- Java data structures implementation
+- Automation scripts (Python)
+
+## Tools
+- Git
+- Linux (Ubuntu)
+- Android Studio
