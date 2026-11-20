@@ -5,8 +5,6 @@ Software developer interested in automation, web development and Android apps.
 ## Skills
 - Python
 - Java
-- JavaScript
-- HTML / CSS
 - Android Development
 - Data structures
 - Cryptography (RSA)
